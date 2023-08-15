@@ -1,18 +1,31 @@
-.french-toast-title {
+.ft-text-color {
   color: rgb(209, 117, 117);
 }
 
-.green-smoothie-title  {
+.gs-text-color  {
   color: rgb(100, 159, 13);
 }
 
-.grilled-chicken-title {
+.gc-text-color {
   color: rgb(165, 42, 42);
 }
 
+.ft-bg-color {
+  background-color: rgba(13, 188, 227, 0.873);
+}
+
+.gs-bg-color {
+  background-color: rgb(237, 237, 167);
+}
+
+.gc-bg-color {
+  background-color: rgba(245, 167, 144, 0.831);
+}
 body {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+
 
 h1 {
   text-align: center;
